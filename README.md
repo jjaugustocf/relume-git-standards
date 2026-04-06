@@ -1,1 +1,1 @@
-# relume-git-standards
+# relume-kit-standards
