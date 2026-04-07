@@ -1,0 +1,41 @@
+main{
+    width: 100vw;
+    height: 100vh;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 102px 64px;
+    gap: 80px;
+}
+
+aside{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  
+}
+
+.aside-content{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.aside-action{
+    display: flex;
+    
+    gap: 16px;
+}
+
+button{
+    padding: 12px 24px;
+    border: 1px solid #000000;
+   
+}
+
+.btn-primary{
+    background-color: #000000;
+    color: white;
+}
